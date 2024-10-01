@@ -68,7 +68,7 @@
      - Remote device control
      - Security policies management
      - Real-time monitoring of device states
-   - **Tech Stack:** Kotlin, Android Device Management APIs
+   - **Tech Stack:** Java, Android
    - **What I Learned:**
      - Developed enterprise-grade solutions with a focus on device security, management, and control.
      - Gained an understanding of AOSP (Android Open Source Project) for customized device settings and how to manage them using applications.
